@@ -1,0 +1,91 @@
+.landing {
+  position: relative;
+  /* background: url('./img/background.jpg') no-repeat; */
+  background-color: #252627;
+  background-size: cover;
+  height: 100vh;
+  margin-top: -25px;
+  /* margin-bottom: -50px; */
+}
+
+.animation-container {
+  height: 40vh;
+  padding-top: 2.5%;
+}
+
+.landing-design-begin {
+  padding-top: 2.5%;
+  padding-left: 2.5%;
+  color:darkslategray;
+  font-style: italic;
+  font-size: 1rem;
+  font-family: script;
+  opacity: 0.29;
+}
+
+.landing-design-end {
+  /* padding-bottom: -2.5%; */
+  padding-top: 5%;
+  padding-left: 2.5%;
+  color: darkslategray;
+  font-style: italic;
+  font-size: 1rem;
+  font-family: script;
+  opacity: 0.29;
+}
+
+.landing-blue {
+  color: #235789;
+}
+
+.landing-red {
+  color: #ED1C24;
+  font-style: italic;
+  /* font-family: serif; */
+}
+
+.hide {
+  display: none;
+}
+
+.call-to-action {
+  margin-top: 10%;
+  margin-bottom: 100px;
+}
+
+.btn-div {
+  display: flex;
+  justify-content: center;
+}
+
+.landing-btn {
+  font-size: 30px;
+  line-height: 50px;
+  width: 50px;
+  height: 50px;
+  padding: 0;
+  border-radius: 100%;
+  border: 1px solid white;
+}
+
+.landing-btn {
+  animation: MoveUpDown 0.9s linear infinite;
+  position: absolute;
+}
+
+.fa-angle-down {
+  font-size: 30px;
+}
+
+@keyframes MoveUpDown {
+  0%, 100% {
+    bottom: 0;
+  }
+  50% {
+    bottom: 6px;
+  }
+}
+
+fa-fw {
+  text-align: center;
+}

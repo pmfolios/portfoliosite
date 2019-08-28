@@ -1,0 +1,20 @@
+.about-p {
+  font-size: 1rem;
+  color: #252627;
+}
+
+.about-full-stack {
+  color: #ED1C24;
+  font-weight: medium;
+  font-style: italic;
+}
+
+.about-links {
+  color: #235789;
+  font-weight: medium;
+  cursor: pointer;
+}
+
+.nav-item {
+  cursor: pointer;
+}

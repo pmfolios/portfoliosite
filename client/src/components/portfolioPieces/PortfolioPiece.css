@@ -1,0 +1,55 @@
+.card-body {
+  background: white;
+}
+
+.smartlist,
+.outside,
+.portfolioSite,
+.more {
+  height: 30rem;
+  min-width: 15rem;
+}
+
+.btn-group {
+  margin-top: 10%;
+}
+
+.card-text {
+  font-size: 1rem;
+}
+
+.portfolio-piece-hr {
+  width: 90%;
+}
+
+.portfolio-icon-links {
+  height: 30px;
+  width: 30px;
+}
+
+/* .portfolio-thumbnail {
+  height: 96px;
+  width: 120px;
+  display: inline-block;
+  border: 2px solid black;
+  border-radius: 5%;
+} */
+
+/* .pt-smartlist {
+  background: url('../../img/landing_smartlist.png') no-repeat;
+  background-size: cover;
+}
+
+.pt-portfolioSite {
+  background: url('../../img/landing_portfolio.png') no-repeat;
+  background-size: cover;
+} */
+
+/* outside,
+.portfolioSite,
+.more  */
+
+.about-card-title,
+.about-card-text {
+  color: rgb(141, 140, 140);
+}

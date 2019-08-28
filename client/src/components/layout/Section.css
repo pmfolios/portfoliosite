@@ -1,0 +1,15 @@
+.section {
+  margin: 0 15px;
+}
+
+.section-header {
+  margin: 15px 0;
+  padding: 20px 0;
+  /* background: darkgrey; */
+  color: #235789;
+}
+
+hr {
+  width: 50%;
+  color: #235789;
+}

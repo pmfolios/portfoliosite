@@ -1,0 +1,26 @@
+.App {
+  min-width: 300px;
+}
+
+.container {
+  max-width: 1200px;
+}
+
+
+img {
+  width: 100%;
+}
+
+.section
+/* , */
+/* footer  */
+ {
+  /* height: 500px;
+  height: 100vh; */
+  min-height: 500px;
+}
+
+.section {
+  margin-bottom: 55px;
+  border: 10rem black;
+}
